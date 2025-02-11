@@ -1,4 +1,4 @@
-# 💻 Curso de Java - Ejercicios y Prácticas
+# 💻 Java - Ejercicios y Prácticas
 
 ## 🔧 Tecnologías utilizadas
 
